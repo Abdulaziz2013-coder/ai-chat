@@ -1,0 +1,10 @@
+{
+  "name": "Abdulaziz Ai",
+  "description": "3D interaktiv model va ovozli muloqotga ega kuchli sun'iy intellekt chati. Yaratuvchi: 78-maktab 7-B sinf o'quvchisi Abdulaziz Xo'janazarov.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
